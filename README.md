@@ -1,2 +1,2 @@
 
-![](banner_image.png)
+![Hello There!](banner_image.png)

@@ -1,1 +1,1 @@
-![Oh Hello there!](.png)
+![Oh Hello there!](https://github.com/vagman/vagman/blob/master/banner_image.png)

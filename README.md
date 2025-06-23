@@ -1,6 +1,6 @@
 # Hey, I'm Vaggelis 👋
 
-I am a student in [Informatics](http://www.cs.unipi.gr/index.php?), at the University of Piraeus and I'm interested in Web Development. Currently, I'm working on passing Algorithms' class and working on my thesis project, a web application for notifying users about extreme weather events. Below you can find my favourite technologies:
+I am a student in [Informatics](http://www.cs.unipi.gr/index.php?), at the University of Piraeus and I'm interested in Web Development. Currently, on my thesis project, a web application for notifying users about extreme weather events. Below you can find my favourite technologies:
 
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
